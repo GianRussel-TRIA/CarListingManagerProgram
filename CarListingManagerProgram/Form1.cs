@@ -5,6 +5,8 @@ namespace CarListingManagerProgram
         public Form1()
         {
             InitializeComponent();
+
+            Console.WriteLine();
         }
     }
 }
